@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="title_home">Para ti</string>
+    <string name="title_dashboard">Estrenos</string>
+    <string name="title_gender">Generos</string>
+    <string name="title_rated">Mejor valorados</string>
+    <string name="splash_logo">Mejor que netflix</string>
+</resources>
